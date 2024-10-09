@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXrcJbd9w5o=",
+  "success": true,
+  "projectFilePath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day4\\Day4Test\\Day4Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91749\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

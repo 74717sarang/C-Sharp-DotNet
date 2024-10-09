@@ -1,0 +1,15 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\bin\Debug\net8.0\Day4Test.exe
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\bin\Debug\net8.0\Day4Test.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\bin\Debug\net8.0\Day4Test.runtimeconfig.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\bin\Debug\net8.0\Day4Test.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\bin\Debug\net8.0\Day4Test.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\refint\Day4Test.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\Day4Test.genruntimeconfig.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day4\Day4Test\obj\Debug\net8.0\ref\Day4Test.dll
