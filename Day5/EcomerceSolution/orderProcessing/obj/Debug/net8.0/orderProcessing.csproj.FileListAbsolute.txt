@@ -1,0 +1,12 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\bin\Debug\net8.0\orderProcessing.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\bin\Debug\net8.0\orderProcessing.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\bin\Debug\net8.0\orderProcessing.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\refint\orderProcessing.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\orderProcessing.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\orderProcessing\obj\Debug\net8.0\ref\orderProcessing.dll

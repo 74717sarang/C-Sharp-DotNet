@@ -1,0 +1,15 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\bin\Debug\net8.0\EcomerceConsoleApp.exe
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\bin\Debug\net8.0\EcomerceConsoleApp.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\bin\Debug\net8.0\EcomerceConsoleApp.runtimeconfig.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\bin\Debug\net8.0\EcomerceConsoleApp.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\bin\Debug\net8.0\EcomerceConsoleApp.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\refint\EcomerceConsoleApp.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\EcomerceConsoleApp.genruntimeconfig.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\EcomerceConsoleApp\obj\Debug\net8.0\ref\EcomerceConsoleApp.dll

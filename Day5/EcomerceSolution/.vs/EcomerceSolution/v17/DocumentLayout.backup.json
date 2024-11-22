@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day5\\ecomercesolution\\ecomerceconsoleapp\\catlog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|solutionrelative:ecomerceconsoleapp\\catlog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day5\\ecomercesolution\\ecomerceconsoleapp\\orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|solutionrelative:ecomerceconsoleapp\\orderprocessing\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day5\\ecomercesolution\\ecomerceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AED3D2C-8708-4025-941A-3565A47C307C}|EcomerceConsoleApp\\EcomerceConsoleApp.csproj|solutionrelative:ecomerceconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "order.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\orderProcessing\\order.cs",
+              "RelativeDocumentMoniker": "EcomerceConsoleApp\\orderProcessing\\order.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\orderProcessing\\order.cs",
+              "RelativeToolTip": "EcomerceConsoleApp\\orderProcessing\\order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:51:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\catlog\\product.cs",
+              "RelativeDocumentMoniker": "EcomerceConsoleApp\\catlog\\product.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\catlog\\product.cs",
+              "RelativeToolTip": "EcomerceConsoleApp\\catlog\\product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:40:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EcomerceConsoleApp\\Program.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day5\\EcomerceSolution\\EcomerceConsoleApp\\Program.cs",
+              "RelativeToolTip": "EcomerceConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:27:36.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

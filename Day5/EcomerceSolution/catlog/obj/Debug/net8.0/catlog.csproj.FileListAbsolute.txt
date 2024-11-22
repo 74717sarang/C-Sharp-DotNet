@@ -1,0 +1,12 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\bin\Debug\net8.0\catlog.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\bin\Debug\net8.0\catlog.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\bin\Debug\net8.0\catlog.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\refint\catlog.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\catlog.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day5\EcomerceSolution\catlog\obj\Debug\net8.0\ref\catlog.dll
