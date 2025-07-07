@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day6\\test1solution\\test1console\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|solutionrelative:test1console\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day6\\test1solution\\test1console\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|solutionrelative:test1console\\idbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day6\\test1solution\\test1console\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|solutionrelative:test1console\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day6\\test1solution\\test1console\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|solutionrelative:test1console\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day6\\test1solution\\test1console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F326CB-28EE-4202-B1CE-018630661038}|test1console\\test1console.csproj|solutionrelative:test1console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDBManager.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\IDBManager.cs",
+              "RelativeDocumentMoniker": "test1console\\IDBManager.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\IDBManager.cs",
+              "RelativeToolTip": "test1console\\IDBManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:52:49.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\DBManager.cs",
+              "RelativeDocumentMoniker": "test1console\\DBManager.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\DBManager.cs",
+              "RelativeToolTip": "test1console\\DBManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:50:07.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "test1console\\CollectionContext.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\CollectionContext.cs",
+              "RelativeToolTip": "test1console\\CollectionContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:45:48.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "department.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\department.cs",
+              "RelativeDocumentMoniker": "test1console\\department.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\department.cs",
+              "RelativeToolTip": "test1console\\department.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:40:41.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\Program.cs",
+              "RelativeDocumentMoniker": "test1console\\Program.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day6\\test1Solution\\test1console\\Program.cs",
+              "RelativeToolTip": "test1console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:37:24.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

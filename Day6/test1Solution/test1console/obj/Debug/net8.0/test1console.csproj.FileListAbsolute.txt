@@ -1,0 +1,15 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\bin\Debug\net8.0\test1console.exe
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\bin\Debug\net8.0\test1console.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\bin\Debug\net8.0\test1console.runtimeconfig.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\bin\Debug\net8.0\test1console.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\bin\Debug\net8.0\test1console.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\refint\test1console.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\test1console.genruntimeconfig.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day6\test1Solution\test1console\obj\Debug\net8.0\ref\test1console.dll
