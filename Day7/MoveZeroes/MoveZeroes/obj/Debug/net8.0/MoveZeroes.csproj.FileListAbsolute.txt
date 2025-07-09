@@ -1,0 +1,15 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\bin\Debug\net8.0\MoveZeroes.exe
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\bin\Debug\net8.0\MoveZeroes.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\bin\Debug\net8.0\MoveZeroes.runtimeconfig.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\bin\Debug\net8.0\MoveZeroes.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\bin\Debug\net8.0\MoveZeroes.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\refint\MoveZeroes.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\MoveZeroes.genruntimeconfig.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Day7\MoveZeroes\MoveZeroes\obj\Debug\net8.0\ref\MoveZeroes.dll

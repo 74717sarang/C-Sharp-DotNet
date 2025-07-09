@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day7\\MoveZeroes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C72D7B-B735-42EF-8FE6-073CF176B141}|MoveZeroes\\MoveZeroes.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day7\\movezeroes\\movezeroes\\zeroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C72D7B-B735-42EF-8FE6-073CF176B141}|MoveZeroes\\MoveZeroes.csproj|solutionrelative:movezeroes\\zeroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C72D7B-B735-42EF-8FE6-073CF176B141}|MoveZeroes\\MoveZeroes.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\day7\\movezeroes\\movezeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C72D7B-B735-42EF-8FE6-073CF176B141}|MoveZeroes\\MoveZeroes.csproj|solutionrelative:movezeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zeroes.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day7\\MoveZeroes\\MoveZeroes\\Zeroes.cs",
+              "RelativeDocumentMoniker": "MoveZeroes\\Zeroes.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day7\\MoveZeroes\\MoveZeroes\\Zeroes.cs",
+              "RelativeToolTip": "MoveZeroes\\Zeroes.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:14:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day7\\MoveZeroes\\MoveZeroes\\Program.cs",
+              "RelativeDocumentMoniker": "MoveZeroes\\Program.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Day7\\MoveZeroes\\MoveZeroes\\Program.cs",
+              "RelativeToolTip": "MoveZeroes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:14:10.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
