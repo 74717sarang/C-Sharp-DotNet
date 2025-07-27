@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Restart\\BlankSolution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573C701C-FC0B-4C9F-9BD6-72AFD355A5D7}|FirstConsoleApp1\\FirstConsoleApp1.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\restart\\blanksolution1\\firstconsoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C701C-FC0B-4C9F-9BD6-72AFD355A5D7}|FirstConsoleApp1\\FirstConsoleApp1.csproj|solutionrelative:firstconsoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573C701C-FC0B-4C9F-9BD6-72AFD355A5D7}|FirstConsoleApp1\\FirstConsoleApp1.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\restart\\blanksolution1\\firstconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573C701C-FC0B-4C9F-9BD6-72AFD355A5D7}|FirstConsoleApp1\\FirstConsoleApp1.csproj|solutionrelative:firstconsoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Restart\\BlankSolution1\\FirstConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "FirstConsoleApp1\\Employee.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Restart\\BlankSolution1\\FirstConsoleApp1\\Employee.cs*",
+              "RelativeToolTip": "FirstConsoleApp1\\Employee.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:37:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Restart\\BlankSolution1\\FirstConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "FirstConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\Restart\\BlankSolution1\\FirstConsoleApp1\\Program.cs",
+              "RelativeToolTip": "FirstConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:51:51.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

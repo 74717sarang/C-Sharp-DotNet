@@ -1,0 +1,15 @@
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\bin\Debug\net8.0\FirstConsoleApp1.exe
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\bin\Debug\net8.0\FirstConsoleApp1.deps.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\bin\Debug\net8.0\FirstConsoleApp1.runtimeconfig.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\bin\Debug\net8.0\FirstConsoleApp1.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\bin\Debug\net8.0\FirstConsoleApp1.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.AssemblyInfoInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.AssemblyInfo.cs
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.sourcelink.json
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\refint\FirstConsoleApp1.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.pdb
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\FirstConsoleApp1.genruntimeconfig.cache
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\Restart\BlankSolution1\FirstConsoleApp1\obj\Debug\net8.0\ref\FirstConsoleApp1.dll
