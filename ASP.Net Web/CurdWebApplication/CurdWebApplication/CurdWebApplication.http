@@ -1,0 +1,6 @@
+@CurdWebApplication_HostAddress = http://localhost:5244
+
+GET {{CurdWebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
