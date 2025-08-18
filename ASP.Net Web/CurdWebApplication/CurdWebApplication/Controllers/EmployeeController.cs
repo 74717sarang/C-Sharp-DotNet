@@ -1,7 +1,6 @@
 ﻿using Crud.Models;
 using Crud.Service;
 using Microsoft.AspNetCore.Mvc;
-using Org.BouncyCastle.Asn1.Cmp;
 
 namespace CurdWebApplication.Controllers
 {
