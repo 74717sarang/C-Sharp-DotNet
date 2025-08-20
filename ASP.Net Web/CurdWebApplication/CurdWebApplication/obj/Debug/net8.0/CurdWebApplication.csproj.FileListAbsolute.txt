@@ -254,3 +254,6 @@ D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\Cu
 D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\FluentValidation.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\C_DAC PARA\Git Hub Repo data\C-Sharp-DotNet\ASP.Net Web\CurdWebApplication\CurdWebApplication\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

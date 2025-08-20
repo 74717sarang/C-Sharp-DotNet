@@ -1,10 +1,16 @@
-using Crud.Service;
+using CurdWebApplication.Connection;
+using CurdWebApplication.Exception;
+using CurdWebApplication.Service;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
-
+// ? Register DbContext for DI
+builder.Services.AddDbContext<CollectionContext>(options =>
+    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
 
 
 
@@ -35,7 +41,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
-
+builder.Services.AddScoped<IDBManager, DBManager>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -44,6 +50,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
+
+
+//add middleware
+app.UseMiddleware<ExceptionMiddleware>();
+
+
 
 app.UseHttpsRedirection();
 

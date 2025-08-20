@@ -1,13 +1,18 @@
-﻿using Crud.Models;
-using Crud.Service;
+﻿using CurdWebApplication.Models;
+using CurdWebApplication.Service;
+using CurdWebApplication.EmpDTO;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace CurdWebApplication.Controllers
 {
     [ApiController]
     [Route("[Controller]")]
-    public class EmployeeController:ControllerBase
+    public class EmployeeController : ControllerBase
     {
+
+        //public EmployeeController():base() { }
 
         private readonly IEmployeeService employeeService;
 
@@ -24,48 +29,114 @@ namespace CurdWebApplication.Controllers
 
 
         [HttpGet("/getall")]
-        public List<Employee> getAll()
+        //[Authorize(Roles ="admin")]
+        [Authorize]
+        public ActionResult<List<Employee>> getAll()
         {
-            return employeeService.GetAll();
-
+            return Ok(employeeService.GetAll());
         }
 
         [HttpPost("/add")]
-        public void addEmp([FromBody] Employee emp)
+        public ActionResult addEmp([FromBody] Employee emp)
         {
+            if (emp == null) {
+                return BadRequest("data is Null /........");
+            }
             employeeService.add(emp);
             Console.WriteLine("Added Done....");
+            return Ok();
         }
 
 
         [HttpPut("update/{id}")]
-        public void updateEmp(int id,[FromBody] Employee emp) {
+        public ActionResult updateEmp(int id, [FromBody] EmployeeUpdateDto dto) {
 
-
-            int i = (int)id;
-            employeeService.update(i,emp);
-            Console.WriteLine("Update Done");  
-        
+            if (id != 0)
+            {
+                int i = (int)id;
+                employeeService.update(i, dto);
+                Console.WriteLine("Update Done");
+                return Ok();
+            }
+            return BadRequest("Id InCorrect");
         }
 
 
 
-        [HttpDelete("{id}")]
-        public void delete(int id)
+        [HttpDelete("/delete/{id}")]
+        public ActionResult delete(int id)
         {
+            if (id <= 0)
+                return BadRequest("Invalid ID");
             int i = (int)id;
             employeeService.delete(i);
             Console.WriteLine("Delete Done");
+            return Ok("Delete Done");
         }
 
 
         [HttpGet("/sortByName")]
-        public List<Employee> sortByName()
+        public ActionResult<List<Employee>> SortByName()
         {
-            return employeeService.sort();
+            var employees = employeeService.sort();
 
+            if (employees == null)
+                return NotFound("No employees found");
+
+            return Ok(employees);
         }
 
 
+
+
+        //[HttpGet("/getByID/{id}")]
+        //public Employee getByID(int id)
+        //{
+        //    return employeeService.GetById(id);
+
+        //}
+
+
+        [HttpGet("/getByID/{id}")]
+        public ActionResult<Employee> GetByID(int id)
+        {
+            if (id != 0)
+            {
+                var employee = employeeService.GetById(id);
+
+                if (employee == null)
+                    return NotFound();
+
+                return Ok(employee);
+            }
+
+            return BadRequest("Invalid ID");
+        }
+
+        [HttpPatch("updateNameById/{id}/{name}")]
+        public ActionResult<EmployeeUpdateDto> updateEmpName(int id, string name)
+        {
+
+            if (id != 0 && name != null)
+            {
+                int i = (int)id;
+                return Ok(employeeService.updateName(id, name));
+
+
+                //using (var context = new CollectionContext()) {
+                //    var employee = employeeService.GetById(id);
+                //    if (employee != null) {
+                //        employee.Name = name;
+                //        context.SaveChanges();  
+                //    }
+                Console.WriteLine("Name Update Done");
+                return Ok();
+            }
+        
+            return BadRequest("Id InCorrect");
     }
+
+    }
+
+    
 }

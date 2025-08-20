@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7D201E0-AB24-4131-A97F-6392DE2E9037}|Crud\\Crud.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net mvc\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7D201E0-AB24-4131-A97F-6392DE2E9037}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7D201E0-AB24-4131-A97F-6392DE2E9037}|Crud\\Crud.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net mvc\\crud\\crud\\views\\employee\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E7D201E0-AB24-4131-A97F-6392DE2E9037}|Crud\\Crud.csproj|solutionrelative:crud\\views\\employee\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T05:30:11.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GetAll.cshtml",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Views\\Employee\\GetAll.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Employee\\GetAll.cshtml",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "Crud\\Views\\Employee\\GetAll.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T13:22:03.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T13:22:03.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Program.cs",
               "RelativeDocumentMoniker": "Crud\\Program.cs",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "Crud\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T13:05:43.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T13:05:43.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Views\\Employee\\Update.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Update.cshtml",
@@ -96,12 +111,11 @@
               "RelativeToolTip": "Crud\\Views\\Employee\\Update.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T10:42:35.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T10:42:35.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Employee\\Delete.cshtml",
@@ -109,12 +123,11 @@
               "RelativeToolTip": "Crud\\Views\\Employee\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T09:56:34.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:56:34.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CollectionContext.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Connection\\CollectionContext.cs",
               "RelativeDocumentMoniker": "Crud\\Connection\\CollectionContext.cs",
@@ -122,12 +135,11 @@
               "RelativeToolTip": "Crud\\Connection\\CollectionContext.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T09:47:30.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:47:30.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "add.cshtml",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Views\\Employee\\add.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Employee\\add.cshtml",
@@ -135,12 +147,11 @@
               "RelativeToolTip": "Crud\\Views\\Employee\\add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T09:35:27.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T09:35:27.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Crud\\Views\\Shared\\_Layout.cshtml",
@@ -148,12 +159,11 @@
               "RelativeToolTip": "Crud\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T08:38:21.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T08:38:21.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Crud\\Controllers\\EmployeeController.cs",
@@ -161,12 +171,11 @@
               "RelativeToolTip": "Crud\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:44:22.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T06:44:22.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Service\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Crud\\Service\\EmployeeService.cs",
@@ -174,12 +183,11 @@
               "RelativeToolTip": "Crud\\Service\\EmployeeService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:48:51.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T06:48:51.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DBManager.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Connection\\DBManager.cs",
               "RelativeDocumentMoniker": "Crud\\Connection\\DBManager.cs",
@@ -187,12 +195,11 @@
               "RelativeToolTip": "Crud\\Connection\\DBManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T06:31:39.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T06:31:39.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Crud\\Models\\Employee.cs",
@@ -200,8 +207,7 @@
               "RelativeToolTip": "Crud\\Models\\Employee.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T05:56:40.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T05:56:40.06Z"
             }
           ]
         }

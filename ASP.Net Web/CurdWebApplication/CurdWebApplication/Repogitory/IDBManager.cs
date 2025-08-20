@@ -1,6 +1,7 @@
-﻿using Crud.Models;
+﻿using CurdWebApplication.Models;
+using CurdWebApplication.EmpDTO;
 
-namespace Crud.Connection
+namespace CurdWebApplication.Connection
 {
     public interface IDBManager
     {
@@ -14,6 +15,8 @@ namespace Crud.Connection
 
         public void delete(int id);
 
-        Employee update(int id, Employee employee);
+        Employee update(int id, EmployeeUpdateDto employee);
+
+        Employee updateName(int id, string name);
     }
 }

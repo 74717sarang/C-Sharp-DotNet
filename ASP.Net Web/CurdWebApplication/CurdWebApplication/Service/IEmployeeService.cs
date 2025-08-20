@@ -1,6 +1,8 @@
-﻿using Crud.Models;
+﻿using CurdWebApplication.Models;
+using CurdWebApplication.EmpDTO;
+using CurdWebApplication.Service;
 
-namespace Crud.Service
+namespace CurdWebApplication.Service
 {
     public interface IEmployeeService
 
@@ -15,9 +17,9 @@ namespace Crud.Service
 
         public void delete(int id);
 
-        Employee update(int id, Employee employee);
+        Employee update(int id, EmployeeUpdateDto employee);
 
 
-
+         Employee  updateName(int id, string name);
     }
 }

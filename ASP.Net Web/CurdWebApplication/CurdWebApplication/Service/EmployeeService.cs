@@ -1,11 +1,24 @@
-﻿using Crud.Connection;
-using Crud.Models;
+﻿using CurdWebApplication.Connection;
+using CurdWebApplication.Models;
+using CurdWebApplication.EmpDTO;
 
-namespace Crud.Service
+namespace CurdWebApplication.Service
 {
     public class EmployeeService : IEmployeeService
     {
-        IDBManager dBManager = new DBManager();
+        //IDBManager dBManager = new DBManager();
+
+        private readonly IDBManager dBManager;
+
+        public EmployeeService(IDBManager _dBManager)
+        {
+            dBManager = _dBManager;
+        }
+        public Employee updateName(int id, string name)
+        {
+           return  dBManager .updateName(id, name); 
+        }
+
         void IEmployeeService.add(Employee employee)
         {
             dBManager.add(employee);
@@ -32,7 +45,7 @@ namespace Crud.Service
             return dBManager.sort();
         }
 
-        Employee IEmployeeService.update(int id,Employee employee)
+        Employee IEmployeeService.update(int id, EmployeeUpdateDto employee)
         {
              return dBManager.update(id,employee);
         }

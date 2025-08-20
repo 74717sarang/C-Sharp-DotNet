@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurdWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de12b7eb79b48895cd4c81c646321565f3ad6191")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c33c78d713871f4f178b2bda5c40d3f4eb4b1d05")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurdWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurdWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

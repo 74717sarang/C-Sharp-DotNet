@@ -67,7 +67,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Crud",
+              "Title": "Crud.csproj",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Crud.csproj",
               "RelativeDocumentMoniker": "Crud\\Crud.csproj",
               "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net MVC\\Crud\\Crud\\Crud.csproj",
@@ -87,8 +87,7 @@
               "RelativeToolTip": "Crud\\Views\\Employee\\GetAll.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T13:22:03.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T13:22:03.032Z"
             },
             {
               "$type": "Document",
