@@ -100,7 +100,7 @@ namespace CurdWebApplication.Auth
         public  IActionResult RegisterEmp([FromBody] RegistrationDTO request) {
 
 
-            if (request == null)
+            if (request == null) 
             {
                 return BadRequest("Fill All Data in From ....");
             }
@@ -120,6 +120,8 @@ namespace CurdWebApplication.Auth
            _context.Employees.Add(employee);
             _context.Users.Add(user);
             _context.SaveChanges();
+
+
 
             return Ok(new { message = "Registration successful!" });
         }

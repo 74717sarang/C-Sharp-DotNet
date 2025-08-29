@@ -7,6 +7,7 @@ namespace CurdWebApplication.Service
     public interface IEmployeeService
 
     {
+        //Task SendEmailAsync(EmailDTO email);
         List<Employee> GetAll();
 
         Employee GetById(int id);

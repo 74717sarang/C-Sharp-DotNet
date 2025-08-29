@@ -3,6 +3,7 @@ using CurdWebApplication.Service;
 using CurdWebApplication.EmpDTO;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using CurdWebApplication.Exception;
 
 
 namespace CurdWebApplication.Controllers
@@ -14,16 +15,22 @@ namespace CurdWebApplication.Controllers
 
         //public EmployeeController():base() { }
 
+          public readonly ILogger<EmployeeController> _logger;
+
         private readonly IEmployeeService employeeService;
 
-        public EmployeeController(IEmployeeService employeeService)
+        public EmployeeController(IEmployeeService employeeService, ILogger<EmployeeController> logger)
         {
             this.employeeService = employeeService;
+            _logger = logger;
         }
 
         [HttpGet("/index")]
         public string Index()
         {
+            _logger.LogInformation("in Index Get Methode");
+                
+
             return ("In Index");
         }
 
@@ -109,7 +116,7 @@ namespace CurdWebApplication.Controllers
 
                 return Ok(employee);
             }
-
+            //_logger.LogError(new EmployeeException());
             return BadRequest("Invalid ID");
         }
 

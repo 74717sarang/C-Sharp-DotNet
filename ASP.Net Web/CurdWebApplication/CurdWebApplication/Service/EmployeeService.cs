@@ -8,12 +8,22 @@ namespace CurdWebApplication.Service
     {
         //IDBManager dBManager = new DBManager();
 
+
+        
+
+
+
+
+
         private readonly IDBManager dBManager;
 
         public EmployeeService(IDBManager _dBManager)
         {
             dBManager = _dBManager;
         }
+
+      
+
         public Employee updateName(int id, string name)
         {
            return  dBManager .updateName(id, name); 

@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Org.BouncyCastle.Asn1.Cmp;
 
 namespace CurdWebApplication.Controllers
 {
@@ -6,6 +7,12 @@ namespace CurdWebApplication.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        public void testBranch1() { 
+        
+        }
+
+
+
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"

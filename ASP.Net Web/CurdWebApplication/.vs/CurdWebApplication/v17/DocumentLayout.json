@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\exception\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\exception\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\exception\\employeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\exception\\employeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\repogitory\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\repogitory\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\empdto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\empdto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|d:\\c_dac para\\git hub repo data\\c-sharp-dotnet\\asp.net web\\curdwebapplication\\curdwebapplication\\repogitory\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92165886-7DFD-4049-8829-0483CD5C8794}|CurdWebApplication\\CurdWebApplication.csproj|solutionrelative:curdwebapplication\\repogitory\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,58 +54,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "CurdWebApplication\\appsettings.json",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\appsettings.json",
-              "RelativeToolTip": "CurdWebApplication\\appsettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T12:51:20.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Program.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Program.cs",
-              "RelativeToolTip": "CurdWebApplication\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CurdWebApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CurdWebApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:57:59.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeException.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Exception\\EmployeeException.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Exception\\EmployeeException.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Exception\\EmployeeException.cs",
-              "RelativeToolTip": "CurdWebApplication\\Exception\\EmployeeException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T10:31:32.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Exception\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Exception\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Exception\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "CurdWebApplication\\Exception\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T07:38:19.64Z",
+              "WhenOpened": "2025-08-29T05:44:46.575Z",
               "EditorCaption": ""
             },
             {
@@ -117,73 +86,98 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\User.cs",
               "RelativeDocumentMoniker": "CurdWebApplication\\Models\\User.cs",
               "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\User.cs",
               "RelativeToolTip": "CurdWebApplication\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:51:14.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Auth\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Auth\\LoginDTO.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Auth\\LoginDTO.cs",
-              "RelativeToolTip": "CurdWebApplication\\Auth\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T05:11:23.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:30:43.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Models\\Role.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\Role.cs",
-              "RelativeToolTip": "CurdWebApplication\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\EmpDTO\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "CurdWebApplication\\EmpDTO\\RegistrationDTO.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\EmpDTO\\RegistrationDTO.cs",
+              "RelativeToolTip": "CurdWebApplication\\EmpDTO\\RegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T13:18:46.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T05:26:30.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "CurdWebApplication\\Models\\Employee.cs",
-              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Models\\Employee.cs",
-              "RelativeToolTip": "CurdWebApplication\\Models\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "CurdWebApplication\\Controllers\\EmailController.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "CurdWebApplication\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T13:13:34.813Z",
+              "WhenOpened": "2025-08-22T12:22:04.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CurdWebApplication\\Program.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Program.cs",
+              "RelativeToolTip": "CurdWebApplication\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:21:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CurdWebApplication\\appsettings.json",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\appsettings.json",
+              "RelativeToolTip": "CurdWebApplication\\appsettings.json",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T12:19:29.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "CurdWebApplication\\Service\\EmailService.cs",
+              "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Service\\EmailService.cs",
+              "RelativeToolTip": "CurdWebApplication\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:16:58.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "CurdWebApplication\\Auth\\AuthController.cs",
               "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Auth\\AuthController.cs",
               "RelativeToolTip": "CurdWebApplication\\Auth\\AuthController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwHMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T11:13:41.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "DBManager.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Repogitory\\DBManager.cs",
               "RelativeDocumentMoniker": "CurdWebApplication\\Repogitory\\DBManager.cs",
@@ -191,21 +185,19 @@
               "RelativeToolTip": "CurdWebApplication\\Repogitory\\DBManager.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAADwvzoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:10:37.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T06:10:37.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Service\\EmployeeService.cs",
               "RelativeDocumentMoniker": "CurdWebApplication\\Service\\EmployeeService.cs",
               "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Service\\EmployeeService.cs",
               "RelativeToolTip": "CurdWebApplication\\Service\\EmployeeService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T06:10:01.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T06:10:01.934Z"
             },
             {
               "$type": "Document",
@@ -215,10 +207,9 @@
               "RelativeDocumentMoniker": "CurdWebApplication\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\C_DAC PARA\\Git Hub Repo data\\C-Sharp-DotNet\\ASP.Net Web\\CurdWebApplication\\CurdWebApplication\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "CurdWebApplication\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAwwCAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T05:38:34.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T05:38:34.382Z"
             }
           ]
         }
